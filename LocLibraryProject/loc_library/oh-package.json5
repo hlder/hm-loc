@@ -1,0 +1,9 @@
+{
+  "name": "@hld/loc",
+  "version": "1.0.0",
+  "description": "依赖注入框架",
+  "main": "Index.ets",
+  "author": "hld",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

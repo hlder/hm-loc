@@ -1,0 +1,1 @@
+export { locPlugin } from './src/loc-plugin';

@@ -1,0 +1,17 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@hld/loc": ">=1.0.0",
+    "@test/library1_api": "file:../library1_api",
+    "@test/library1": "file:../library1",
+    "@test/library2": "file:../library2",
+    "@test/library_test": "file:../library_test",
+    "@test/common": "file:../common"
+  }
+}
+
