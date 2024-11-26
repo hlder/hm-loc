@@ -69,6 +69,3 @@ export default class EntryAbility extends UIAbility {
   }
 }
 ```
-
-### 6.Demo
-[代码传送门](https://github.com/hlder/hm-loc)
